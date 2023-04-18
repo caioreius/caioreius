@@ -10,7 +10,8 @@ You can click the Preview link to take a look at your changes.
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioreius&layout=compact&theme=dracula&count_private=true&title_color=00A3FF" alt="Caio-Stats">
 <div/>
 
-
+*******
+  
  🔭 I’m currently working on Personal Project
 
  🎮 A person passionate about games, music and travel 🛫
@@ -19,6 +20,8 @@ You can click the Preview link to take a look at your changes.
 
  📫 How to reach me **caio.marcondes@sou.unifal-mg.edu.br**
 
+*******
+  
 <h3 align="left">🗣️ Connect with me:</h3>
 <p align="left">
 <a href="https://replit.com/@CaioEduardo3" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/baV9RL2D0iV8JkTtCzSxeLf6XxCJMWQYbyXMqyQfc0OQGtjkCyUenUbLb5tefYfMxfU=w240-h480-rw" alt="194582" height="30" width="40" /></a>
