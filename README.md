@@ -3,9 +3,13 @@
 You can click the Preview link to take a look at your changes.
 --->
 
+[![MasterHead](https://thumbs.gfycat.com/ContentYellowGenet-size_restricted.gif)](https://rishavchanda.io)
+
   <h1 align="center">Hi 👋, I'm Caio Eduardo</h1>
 
 <h3 align="center">👨🏻‍💻 A simple and "normal" developer.</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=caioreius&label=Profile%20views&color=0e75b6&style=flat" alt="caioreius" /> </p>
 
 *******
 
