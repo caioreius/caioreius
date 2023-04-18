@@ -3,7 +3,7 @@
 You can click the Preview link to take a look at your changes.
 --->
 
-[![MasterHead](https://zippy.gfycat.com/AlarmedOrganicAzurewingedmagpie.mp4)](https://rishavchanda.io)
+[![MasterHead](https://gfycat.com/alarmedorganicazurewingedmagpie)](https://rishavchanda.io)
 
   <h1 align="center">Hi 👋, I'm Caio Eduardo</h1>
 
