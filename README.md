@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioreius&layout=compact&theme=dracula&count_private=true&title_color=00A3FF" alt="Caio-Stats">
 <div/>
 
-
+-
  🔭 I’m currently working on Personal Project
 
 <!---- 🌱 I’m currently learning **Next.js** --->
