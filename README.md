@@ -32,7 +32,7 @@ You can click the Preview link to take a look at your changes.
 <p align="left"> <a href="http://lattes.cnpq.br/8351129539435330" target="_blank"> <img align="center" src="https://www.gov.br/cnpq/pt-br/canais_atendimento/identidade-visual/CNPq_v2017_rgb.png" alt="CNPq" height="40" width="85" /> </a>
 <a href="https://www.linkedin.com/in/caio-eduardo-marcondes-1641bb231/" target="_blank"> <img align="center" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="Linkedin" height="40" width="85" /> </a>
 <a href="https://replit.com/@CaioEduardo3" target="_blank"> <img align="center" src="https://play-lh.googleusercontent.com/baV9RL2D0iV8JkTtCzSxeLf6XxCJMWQYbyXMqyQfc0OQGtjkCyUenUbLb5tefYfMxfU=w240-h480-rw" alt="@CaioEduardo3" height="40" width="40" /</a>
-<a href="https://instagram.com/ccaiot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ccaiot" height="30" width="40" /></a>
+<a href="https://instagram.com/ccaiot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ccaiot" height="40" width="40" /></a>
 </p>
 
 *******
