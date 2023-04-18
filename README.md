@@ -30,6 +30,7 @@ You can click the Preview link to take a look at your changes.
 <h3 align="left">🗣️ Connect with me:</h3>
 <p align="left">
 <a href="https://replit.com/@CaioEduardo3" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/baV9RL2D0iV8JkTtCzSxeLf6XxCJMWQYbyXMqyQfc0OQGtjkCyUenUbLb5tefYfMxfU=w240-h480-rw" alt="194582" height="30" width="40" /></a>
+<a href="http://lattes.cnpq.br/8351129539435330" target="blank"><img align="center" src="[https://play-lh.googleusercontent.com/baV9RL2D0iV8JkTtCzSxeLf6XxCJMWQYbyXMqyQfc0OQGtjkCyUenUbLb5tefYfMxfU=w240-h480-rw](https://www.google.com/url?sa=i&url=http%3A%2F%2Fplone.ufpb.br%2Fgresp%2Fcontents%2Fimagens%2Ficones%2Flattes-png2.png%2Fview&psig=AOvVaw3CVY5aiAlTJ3Ae91P0NSvH&ust=1681926784180000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKj94tX_s_4CFQAAAAAdAAAAABAQ)" alt="194582" height="30" width="40" /></a>
 </p>
 
 *******
