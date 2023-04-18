@@ -28,8 +28,8 @@ You can click the Preview link to take a look at your changes.
 *******
   
 <h3 align="left">🗣️ Connect with me:</h3>
-<p align="left"> <a href="https://replit.com/@CaioEduardo3" target="_blank"> <img align="center" src="https://play-lh.googleusercontent.com/baV9RL2D0iV8JkTtCzSxeLf6XxCJMWQYbyXMqyQfc0OQGtjkCyUenUbLb5tefYfMxfU=w240-h480-rw" alt="194582" height="30" width="40" /></a>
-<a href="http://lattes.cnpq.br/8351129539435330" target="_blank"> <img align="center" src="https://www.gov.br/cnpq/pt-br/canais_atendimento/identidade-visual/CNPq_v2017_rgb.png" alt="CNPq" height="30" width="40" /> </a>
+<p align="left"> <a href="https://replit.com/@CaioEduardo3" target="_blank"> <img align="center" src="https://play-lh.googleusercontent.com/baV9RL2D0iV8JkTtCzSxeLf6XxCJMWQYbyXMqyQfc0OQGtjkCyUenUbLb5tefYfMxfU=w240-h480-rw" alt="@CaioEduardo3" height="30" width="40" /></a>
+<a href="http://lattes.cnpq.br/8351129539435330" target="_blank"> <img align="center" src="https://www.gov.br/cnpq/pt-br/canais_atendimento/identidade-visual/CNPq_v2017_rgb.png" alt="CNPq" height="30" width="70" /> </a>
 </p>
 
 *******
