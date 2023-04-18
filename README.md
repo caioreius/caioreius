@@ -3,7 +3,7 @@
 You can click the Preview link to take a look at your changes.
 --->
 
-[![MasterHead](https://thumbs.gfycat.com/ContentYellowGenet-size_restricted.gif)](https://rishavchanda.io)
+[![MasterHead](https://thumbs.gfycat.com/FlimsyFatGlowworm-mobile.mp4)](https://rishavchanda.io)
 
   <h1 align="center">Hi 👋, I'm Caio Eduardo</h1>
 
