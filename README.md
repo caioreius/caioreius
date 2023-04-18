@@ -29,7 +29,7 @@ You can click the Preview link to take a look at your changes.
   
 <h3 align="left">🗣️ Connect with me:</h3>
 <p align="left"> <a href="https://replit.com/@CaioEduardo3" target="_blank"> <img align="center" src="https://play-lh.googleusercontent.com/baV9RL2D0iV8JkTtCzSxeLf6XxCJMWQYbyXMqyQfc0OQGtjkCyUenUbLb5tefYfMxfU=w240-h480-rw" alt="194582" height="30" width="40" /></a>
-<a href="http://lattes.cnpq.br/8351129539435330" target="_blank"> <img align="center" src="http://sites.uem.br/palafito/downloads/logos/cnpq/image_view_fullscreen" alt="8351129539435330" height="30" width="40" /></a>
+<a href="http://lattes.cnpq.br/8351129539435330" target="blank"> <img align="center" src="http://sites.uem.br/palafito/downloads/logos/cnpq/image_view_fullscreen" alt="CNPq" height="30" width="40" /></a>
 </p>
 
 *******
